@@ -51,7 +51,7 @@ switch (secim) {
         break;
 
     case "2":
-        alert("Uygulamadan çıkış yapıldı.....");
+        alert("Uygulamadan çıkış yapıldı......");
         break;
 
     default:
